@@ -1,3 +1,10 @@
-Pulls all hosts from sources.txt and merges into final.txt
+# MEGA BLOCKLIST
+### Support the maintainer: 
+### CashApp: $CipherOps
+### [Amazon Wishlist](https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0)
 
-not removing false positives, this is a hands off approach to strict blocking, you might need to whitelist sometimes.
+### This list is a collection of the best lists out there, it strives to have minimal false positives while also removing false negatives. For use with Pi-hole, AdGuard Home, or any other blocking system that supports hosts style lists. 
+
+### Best if used in combination with REGEX blocking (where supported) https://github.com/CipherOps/PiHoleBlocklists
+
+updated weekly
