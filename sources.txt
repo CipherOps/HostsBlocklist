@@ -1,10 +1,8 @@
 https://adaway.org/hosts.txt
 https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
 https://dbl.oisd.nl/extra/
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
