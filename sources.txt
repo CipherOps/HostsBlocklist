@@ -38,3 +38,5 @@ https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://raw.githubusercontent.com/CipherOps/MiscHostsFiles/master/MiscAdTrackingHostBlock.txt
+https://github.com/CipherOps/MiscHostsFiles/blob/master/DishTrackingAdHosts.txt
