@@ -10,3 +10,6 @@
 ### Best if used in combination with REGEX blocking (where supported) https://github.com/CipherOps/PiHoleBlocklists
 
 updated weekly
+
+# Adblocking Discord for Pi-hole, AdGuard Home, or any other adblocking discussions
+https://discord.gg/VzThBmB
