@@ -1,7 +1,4 @@
 # MEGA BLOCKLIST
-### Support the maintainer: 
-### CashApp: $CipherOps
-### [Amazon Wishlist](https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0)
 
 ### Add this link to your upstream sources in Pi-hole/AdGuardHome/Other: https://raw.githubusercontent.com/CipherOps/HostsBlocklist/main/hosts.txt
 
