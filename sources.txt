@@ -49,3 +49,4 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/ElCap1tan/PiHole-Parsed-Filter-Lists/master/lists/malwaredomains_full.hostBlacklists/Disconnect-Malware-Filter.txt
 https://block.energized.pro/basic/formats/domains.txt
 https://raw.githubusercontent.com/x-o-r-r-o/Pi-Hole-Block-Lists/master/ads-and-tracking.txt
+https://raw.githubusercontent.com/CipherOps/MiscHostsFiles/master/ExtraJunk.txt
