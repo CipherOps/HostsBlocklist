@@ -45,3 +45,7 @@ https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdoma
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/ccleaner_backdoor.txt
+https://raw.githubusercontent.com/ElCap1tan/PiHole-Parsed-Filter-Lists/master/lists/malwaredomains_full.hostBlacklists/Disconnect-Malware-Filter.txt
+https://block.energized.pro/basic/formats/domains.txt
+https://raw.githubusercontent.com/x-o-r-r-o/Pi-Hole-Block-Lists/master/ads-and-tracking.txt
